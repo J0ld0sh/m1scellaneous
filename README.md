@@ -1,6 +1,6 @@
 # m1scellaneous
 
-HW4_Bolotbekov - разработка рекомендательной системы на основе PCA-components
+Recommend - разработка рекомендательной системы на основе PCA-components
 оценка рейтинга фильма 
 $$WeightedRating=(\frac{v}{v+m}⋅R)+(\frac{m}{v+m}⋅C)$$
 
